@@ -8,9 +8,9 @@ for i in range(2*n - 1):
         right = (2*n-2) - i
         down = (2*n-2) - j
 
-        minimum = min(top, left, right, down)
+        nearst_distance = min(top, left, right, down)
 
-        print(n - minimum, end="")
+        print(n - nearst_distance, end="")
 
     print()
 
