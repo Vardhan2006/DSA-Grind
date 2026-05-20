@@ -1,6 +1,6 @@
 num = int(input('enter a number: '))
 
-#we copy the original and while the original safe this n changes while in the loop
+#we copy the original and while the original is safe and this n changes while in the loop
 n = num
 
 # Taking the len to add it as power to the original digits
