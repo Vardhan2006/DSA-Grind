@@ -1,5 +1,13 @@
 n = 36
 
-for i in range(n + 1):
-    if (i % n == 0):
-        print(i)
+divisors = []
+
+for i in range(1, int(n**0.5) + 1):
+    if (n % i == 0):
+
+        divisors.append(i)      # Time Complexity O(sqrt(n))
+
+        if i != n // i:
+            divisors.append(n//i)
+        
+print(sorted(divisors))
