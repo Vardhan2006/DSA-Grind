@@ -6,8 +6,11 @@ class Solution:
         
         if i > n:
             return
-            
-        print(i, end = " ")
+        
+        print(i, end = " ")         # Recursion 
             
         self.printNos(n, i + 1)
+
+
+
     
