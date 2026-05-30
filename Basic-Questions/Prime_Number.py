@@ -19,3 +19,5 @@ else:
     else:
         print('not prime')
 
+    #revision done once
+

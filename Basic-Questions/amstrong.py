@@ -22,3 +22,5 @@ if total == num:
     print('Amstrong Number')
 else:
     print('Not Amstrong Number')
+
+#revision done once
