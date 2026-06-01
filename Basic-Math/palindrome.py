@@ -15,5 +15,4 @@ class Solution(object):
         return dup == rev
     
         
-
         

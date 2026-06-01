@@ -11,3 +11,5 @@ for i in range(1, int(n**0.5) + 1):
             divisors.append(n//i)
         
 print(sorted(divisors))
+
+#Revised Once 

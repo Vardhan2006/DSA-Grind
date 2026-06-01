@@ -8,7 +8,6 @@ f()
 '''
 
 
-
 # def f():
 #     print(1)  this is a recusrion loop calls function print 1 then calls functions repeats
 

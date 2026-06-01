@@ -1,7 +1,7 @@
 # Euclidean ALgorithm for optimized version
 
 
-# according to Euclidean Algo gcd(n1,n2) = gcd(n1-n2, n2) = gcd(a%b, b)
+# according to Euclidean Algo gcd(n1,n2) = gcd(a%b, b)
 
 
 class Solution:
@@ -19,4 +19,5 @@ class Solution:
             return b
         else:
             return a
-                
+
+#Revised Once

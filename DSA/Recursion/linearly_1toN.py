@@ -11,6 +11,4 @@ class Solution:
             
         self.printNos(n, i + 1)
 
-
-
-    
+#Revised once

@@ -17,3 +17,5 @@ class Solution:
             num = num // 10
             
         return total == n
+
+#Revised Once 
